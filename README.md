@@ -114,5 +114,3 @@ hadoop jar /path/to/hadoop-streaming.jar \
 
 ---
 
-## 📝 Author
-*   **Mangesh B. Rohankar** (AlmaBetter Student)
